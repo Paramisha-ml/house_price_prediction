@@ -2,7 +2,7 @@
 
 This project demonstrates a beginner-friendly implementation of **Linear Regression** to predict house prices using simple numerical features like square footage, number of bedrooms, and bathrooms. It is built using the **Ames Housing Dataset** (from Kaggle) as part of a machine learning internship task.
 
-## 📁 Dataset
+##  Dataset
 I used a kaggle datset in csv format:  https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ##  Features Used
