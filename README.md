@@ -42,6 +42,7 @@ custom_data = pd.DataFrame({
 })
 
 ## Libraries Used : Python, pandas, numpy & scikit-learn
+
 ## Summary
 This project is a great example for beginners learning:
 - Data preprocessing and cleaning
